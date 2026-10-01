@@ -22,5 +22,4 @@ venv\Scripts\python.exe --version # Windows
 # Deactivate virtual environment:
 deactivate # Windows
 
-
 ```
